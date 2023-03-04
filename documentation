@@ -1,0 +1,52 @@
+Windows
+
+DeepBlueCLI - a PowerShell Module for Threat Hunting via Windows Event Logs
+https://github.com/sans-blue-team/DeepBlueCLI
+
+Event Log Explorer - an effective software solution for viewing, analyzing and monitoring events recorded in Microsoft Windows event logs.
+https://eventlogxp.com/
+
+Month of PowerShell - Working with the PowerShell Event Log
+https://www.sans.org/blog/working-with-event-log-part-1/
+
+Key Windows Event IDs 
+https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md
+
+Windows Events log for IR/Forensics
+https://isc.sans.edu/diary/Windows+Events+log+for+IRForensics+Part+1/21493
+
+Log parser - a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows® operating system such as the Event Log, the Registry, the file system, and Active Directory®. 
+https://www.microsoft.com/en-us/download/details.aspx?id=24659
+
+Log Parser Tutorial by SentinelOne
+https://www.sentinelone.com/blog/log-parser-tutorial/
+
+
+Timeline tools
+
+Forensics Evidence Processing – Super Timeline
+https://countuponsecurity.com/2014/08/25/forensics-evidence-processing-super-timeline/
+
+Plaso (Plaso Langar Að Safna Öllu) - super timeline all the things
+https://github.com/log2timeline/plaso
+
+
+Collection tools
+
+Create a Super Timeline with TACTICAL/IREC Triage Image
+https://vikas891.medium.com/create-a-super-timeline-with-tactical-irec-triage-image-ca5114b83b6f
+
+Velociraptor - Endpoint Visibility and Collection Tool 
+https://github.com/Velocidex/velociraptor.git
+
+Memoryze™ - free memory forensic software that helps incident responders find evil in live memory.
+https://fireeye.market/apps/211368
+
+Redline® - ireEye’s premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
+https://fireeye.market/apps/211364
+
+Forensic tools
+https://ericzimmerman.github.io/#!index.md
+
+CyLR - tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+https://github.com/orlikoski/CyLR
